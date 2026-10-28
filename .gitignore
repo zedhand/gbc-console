@@ -1,0 +1,20 @@
+# build output
+build/
+*.uf2
+*.elf
+*.bin
+*.hex
+*.map
+*.dis
+
+# KiCad
+*-backups/
+*.kicad_prl
+fp-info-cache
+_autosave-*
+*.lck
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
